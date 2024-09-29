@@ -16,6 +16,7 @@ The application interacts with the following API:
 
 - React JS
 - JavaScript
+- CSS
 
 ## Features
 
