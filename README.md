@@ -1,4 +1,4 @@
-# Qucikshell Frontend Assignment(Kanban Board application)
+# Quickshell Frontend Assignment(Kanban Board application)
 
 # [Live](https://quickshell-assignment-six.vercel.app/)
 
@@ -13,8 +13,9 @@ The application interacts with the following API:
 - **API Endpoint**: [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment)
 
 ## Tech Stack
-    ** Reactjs**
-    **Javascript**
+
+- React JS
+- JavaScript
 
 ## Features
 
