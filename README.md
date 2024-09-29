@@ -13,8 +13,8 @@ The application interacts with the following API:
 - **API Endpoint**: [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment)
 
 ## Tech Stack
-    Reactjs
-    Javascript
+    ** Reactjs**
+    **Javascript**
 
 ## Features
 
